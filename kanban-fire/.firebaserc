@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-ea03d": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-ea03d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-ea03d"
+  }
+}
